@@ -36,3 +36,6 @@ Some sample of test results
 
 
 ![image](https://user-images.githubusercontent.com/75585457/111890791-db510180-89e4-11eb-9869-8c863704accf.png)
+![image](https://user-images.githubusercontent.com/75585457/111890823-33880380-89e5-11eb-9c3c-cbc4721267dd.png)
+![image](https://user-images.githubusercontent.com/75585457/111890835-574b4980-89e5-11eb-83ab-586abb930e21.png)
+![image](https://user-images.githubusercontent.com/75585457/111890862-7944cc00-89e5-11eb-9a3b-f0facdb9c9a5.png)
