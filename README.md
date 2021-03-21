@@ -35,4 +35,4 @@ Or you can create your result view using json file inside target/cucumber-report
 Some sample of test results 
 
 
-
+![image](https://user-images.githubusercontent.com/75585457/111890791-db510180-89e4-11eb-9869-8c863704accf.png)
