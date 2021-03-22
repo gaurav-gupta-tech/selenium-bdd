@@ -28,6 +28,10 @@ How to Execute?
 create a test account for your use in - http://automationpractice.com/ 
 and replace with existing email & credentials and 
 Run your test using mvn install or mvn verify from Terminal after cloning this repo.
+For Mac Users :
+  Download the latest version of chrome driver for Mac operating system.
+Link: https://sites.google.com/a/chromium.org/chromedriver/downloads
+and move it to respective folder (/resources/driver) and update path using System.setProperty in Hooks class .
 2. Test Result
 See the result inside target/cucumber-reports/report.html folder that automatically generated after finished the test execution
 Open html file in your browser
